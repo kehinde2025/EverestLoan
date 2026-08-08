@@ -59,7 +59,7 @@ export default function Hero() {
             {/* Mountain Background */}
             <div className="absolute inset-0 overflow-hidden rounded-[2rem]">
               <Image
-                src="/images/hero/hero.png"
+                src="/images/Hero/hero.png"
                 alt="Everest mountain"
                 fill
                 priority
